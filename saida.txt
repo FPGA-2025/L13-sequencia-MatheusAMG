@@ -1,0 +1,4 @@
+*** Iniciando teste Sequencia ***
+VCD info: dumpfile saida.vcd opened for output.
+=== OK: palavra=0xa5 encontrado=0
+tb.v:78: $finish called at 230000 (1ps)
